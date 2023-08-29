@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qual combustivel</string>
+    <string name="answer_etanol">Abasteça com etanol.</string>
+    <string name="answer_gas">Abasteça com gasolina.</string>
+    <string name="message_gas">Valor do litro de gasolina:</string>
+    <string name="message_etanol">Valor do litro de etanol:</string>
+    <string name="button_text">Qual a melhor opção?</string>
+    <string name="valor_invalido">Valor inválido</string>
+    <string name="informe_o_valor_dos_dois_combustiveis">Informe o valor dos dois combustiveis.</string>
+</resources>
